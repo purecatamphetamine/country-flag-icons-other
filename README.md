@@ -1,4 +1,4 @@
-These are some additional flags that might be used by some messaging service providers.
+These are some additional flags that might be used, for example, by some messaging service providers in `anychan`.
 
 * [`4chan` additional flags request](https://github.com/catamphetamine/anychan/issues/12)
   * `GB-eng` — `XE` country at `4chan`'s `/sp/`
